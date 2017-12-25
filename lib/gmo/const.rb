@@ -563,6 +563,10 @@ module GMO
       'E91050001' => 'Settlement process failed',
       'E91099999' => 'Settlement process failed - please try again',
       'E92000001' => 'System unable to process transaction - please try again',
+      'EX1000301' => 'Token does not exist',
+      'EX1000302' => 'Token is used',
+      'EX1000303' => 'Token is expired',
+      'EX1000304' => 'Token is invalid',
 
       'F01001001' => 'Shop ID is not specified',
       'F01001008' => 'Shop ID contains non-alphanumeric characters or is more than 13 characters',
